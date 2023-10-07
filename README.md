@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-<h1 align="center">Hi 👋, I'm Dae</h1>
+<h1 align="center">What'up 👋, I'm Dae</h1>
 <h3 align="center">A passionate frontend developer from VietNam</h3>
 
 <h3 align="left">Connect with me:</h3>
