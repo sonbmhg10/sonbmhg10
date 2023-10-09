@@ -1,4 +1,3 @@
-### Hi there 👋
 
 <h1 align="center">W'up!! 👋, I'm Dae</h1>
 <h3 align="center">A developer from VietNam</h3>
